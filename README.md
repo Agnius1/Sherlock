@@ -4,9 +4,9 @@ Trumpas aprašas
 
 
 
-Dizainas: https://www.pinterest.com/pin/464293042832100522/feedback/?invite_code=c81c787c5af84b9fb5d1d5eaccf3276a&sender_id=565131590649290717
+Dizainas: agnius1.github.io/Sherlock/
 
-Panaudota: https://www.pinterest.com/pin/464293042832100522/feedback/?invite_code=c81c787c5af84b9fb5d1d5eaccf3276a&sender_id=565131590649290717
+Panaudota: https://i.pinimg.com/736x/66/c5/7b/66c57b9c554cd3f8354e2805b3654df9.jpg
 
 
 Instrukcijos kaip pasileisti projektą
