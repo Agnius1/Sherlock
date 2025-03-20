@@ -4,7 +4,7 @@ Trumpas aprašas
 
 
 
-Dizainas: agnius1.github.io/Sherlock/
+Dizainas: https://agnius1.github.io/Sherlock/
 
 Panaudota: https://i.pinimg.com/736x/66/c5/7b/66c57b9c554cd3f8354e2805b3654df9.jpg
 
