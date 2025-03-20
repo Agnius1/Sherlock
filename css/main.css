@@ -2,6 +2,12 @@
     margin: 0;
 }
 
+body {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+
 body > img {
     margin-left: 30%;
     margin-top: 15%;
@@ -20,7 +26,7 @@ div > :nth-child(1) {
     font-weight: bold;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  color: #333;
+    color: #333;
 }
 
 .tekstas {
@@ -31,19 +37,22 @@ div > :nth-child(1) {
 }
 
 .tekstas2 {
-    margin-top: 20px;
+    margin-top: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: gray
 }
 
 button {
+    margin-top: 10px;
+    margin-left: 50px;
     height: 50px;
     width: 150px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin: 0 auto;
+    font-size: medium;
     display: block;
     border: #898989 solid;
-    color: #898989;
-
-    
+    color: #ffffff;
+    background-color: #898989;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
+
