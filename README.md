@@ -23,7 +23,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://github.com/Agnius1/
 
-Design: https://www.pinterest.com/pin/464293042832100522/feedback/?invite_code=c81c787c5af84b9fb5d1d5eaccf3276a&sender_id=565131590649290717
+Design: https://agnius1.github.io/Sherlock/
 
 ## 🎯 Project features/goals
 
